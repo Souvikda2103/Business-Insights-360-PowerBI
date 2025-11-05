@@ -4,8 +4,6 @@
 
 📅 **Project Duration:** 2018 – 2022
 🏢 **Organization:** AtliQ Hardwares
-🎓 **Guided By:** Codebasics (Dhaval Patel & Hemanand Vadivel)
-
 ---
 
 ## 🎯 Objective
