@@ -92,6 +92,4 @@ To create a comprehensive **Power BI dashboard** providing a **360° view of Atl
 
 This Power BI dashboard transformed complex data into **clear, actionable insights** that help drive informed business decisions across departments.
 
-📊 *Special thanks to Codebasics for the guidance and hands-on learning experience.*
-
 #PowerBI #Codebasics #AtliQHardwares #DataAnalytics #BusinessIntelligence #DashboardDesign #FinanceAnalytics #SalesAnalytics #SupplyChain #DataDriven
