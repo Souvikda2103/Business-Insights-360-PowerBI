@@ -1,6 +1,6 @@
 # 📊 Business Insights 360 – Power BI Dashboard
 
-🔗 **[👉 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTgwZDhLMTItNzMwMy00YjhmLThjZjctNWQ0NGQzV2hZjJiwi dCI6ImI2OThlNmJjLWRjZmEtNDJkMS1hZWJllWRmOGJjNzV4NjM3MCJ9)**  
+🔗 **[👉 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTgwZDhlMTItNzMwMy00YjhmLThhZjctNWQ0NGQzY2VhZjVjIiwidCI6ImI2OThlNmJjLWRjZmEtNDJkMS1hZWJlLWRmOGJjNzY4NjM3MCJ9)**  
 
 **Project Duration:** 2018 – 2022  
 **Organization:** AtliQ Hardwares  
